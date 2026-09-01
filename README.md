@@ -75,4 +75,4 @@ By completing this project, you can learn:
 * How to use Git for version control.
 
 ## Author
-Dev THakkar 
+Dev Thakkar 
